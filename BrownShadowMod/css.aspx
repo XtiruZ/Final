@@ -35,8 +35,7 @@
 
     
     <p>
-        &nbsp;In the Grade 11 IDC3OW course we were introduced to basic CSS concepts. In grade 
-        12 we extend our knowledge to include advanced concepts like DIV layouts and the 
+        &nbsp;We were introduced to basic CSS concepts. Then we further extend our knowledge to include advanced concepts like DIV layouts and the 
         combining of CSS with Javscript&nbsp; called DHTML (Dynamic HTML). Below are 
         links to some sites which demo some really cool effects using these concepts.</p>
 
