@@ -73,6 +73,7 @@
     <Content Include="css.aspx" />
     <Content Include="data\thumbnails\0.png" />
     <Content Include="data\thumbnails\1.png" />
+    <Content Include="Default.aspx" />
     <Content Include="engine\css\overlay-minimal.css" />
     <Content Include="engine\css\videolightbox.css" />
     <Content Include="engine\images\close.png" />
@@ -82,9 +83,11 @@
     <Content Include="engine\js\swfobject.js" />
     <Content Include="engine\js\videogallery.js" />
     <Content Include="Global.asax" />
-    <Content Include="images\chiarelli.jpg" />
+    <Content Include="images\cherry.jpg" />
+    <Content Include="images\horseshoe.jpg" />
     <Content Include="images\lenshtml-css.jpg" />
     <Content Include="images\pic.jpg" />
+    <Content Include="images\shamrock.jpg" />
     <Content Include="images\w3aspnet.gif" />
     <Content Include="index.aspx" />
     <Content Include="styles\images\bottom.jpg" />
@@ -107,6 +110,13 @@
     <Compile Include="css.aspx.cs">
       <DependentUpon>css.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
