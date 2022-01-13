@@ -10,11 +10,8 @@
 
     
     <p>
-        This is an experimental site created using Microsoft&#39;s Visual Studio. All the pages are written using&nbsp; ASP.NET. A major component of this Udemy 
-        course involves creating dynamic websites using ASP.NET. so this site will be 
-        the main repository of examples which illustrate many of the concepts that will 
-        be covered in class. Additionally the other main topics in the course have pages 
-        dedicated to them.</p>
+        這次的期末作品，想要呈現一個普通的修飾化的網頁，套用了CSS<br />
+        和一個小的互動式網頁,增添樂趣和C#程式轉寫能力</p>
 
 
 </asp:Content>

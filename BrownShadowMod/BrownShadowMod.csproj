@@ -83,12 +83,10 @@
     <Content Include="engine\js\videogallery.js" />
     <Content Include="Global.asax" />
     <Content Include="images\chiarelli.jpg" />
-    <Content Include="images\Dreamweaver_cs3.png" />
     <Content Include="images\lenshtml-css.jpg" />
     <Content Include="images\pic.jpg" />
     <Content Include="images\w3aspnet.gif" />
     <Content Include="index.aspx" />
-    <Content Include="javascript.aspx" />
     <Content Include="styles\images\bottom.jpg" />
     <Content Include="styles\images\content.jpg" />
     <Content Include="styles\images\header.jpg" />
@@ -115,10 +113,6 @@
     </Compile>
     <Compile Include="index.aspx.cs">
       <DependentUpon>index.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="javascript.aspx.cs">
-      <DependentUpon>javascript.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="MasterPage.master.cs">

@@ -38,7 +38,6 @@
 <div id="menu">
 <ul>
 <li><a href="index.aspx">Home</a></li>
-<li><a href="javascript.aspx">Javascript</a></li>
 <li><a href="css.aspx">CSS</a></li>
 <li><a href="aspnet.aspx">ASP.NET</a></li>
 <li><a href="contact.aspx">Contact Info</a></li>
@@ -78,7 +77,7 @@
 
 <div class="right"> 
 
-<h2>Key Downloads :</h2>
+<h2>下載 :</h2>
 <ul>
 <li><a href="docs/idc4ow.pdf" target="_blank">Course Handouts</a></li> 
 <li><a href="https://visualstudio.microsoft.com/" target="_blank">Visual Studio </a></li> 
