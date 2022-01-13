@@ -31,7 +31,7 @@
 <div id="top"> </div>
 
 <div id="header">
-<h1><a href="#">組8 ASP期末</a></h1>
+<h1><a href="#">組8 ASP.NET 互動式網頁期末</a></h1>
 <h2>ASP.NET Version</h2>
 </div>
 
@@ -84,10 +84,10 @@
 <li><a href="http://www.adobe.com/education/products/creativesuite/" target="_blank">Adobe Creative Suite</a></li> 
 </ul>
 
-<h2>Links</h2>
+<h2>連結</h2>
 <ul>
 <li><a href="http://youtube.com" target="_blank">Youtube</a></li>
-<li><a href="http://freecomputerbooks.com/" target="blank">Free Computer Books</a></li> 
+<li><a href="https://www.aeust.edu.tw/" target="blank">AEUST</a></li> 
 </ul>
 
 </div>
@@ -97,6 +97,8 @@
 
 <div id="footer">
 108111147 賴豪南
+108111132 柳沂萱
+108111134 江暐柏
 </div>
 </div>
     
