@@ -17,7 +17,7 @@
 </head>
 <body>
     <form id="form1" runat="server">
-    <div>
+    <div style="color: #CC0099; background-color: #000066">
     
         <asp:Image ID="Image1" runat="server" Height="100px" Width="100px" />
         <asp:Image ID="Image2" runat="server" Height="100px" Width="100px" />
@@ -28,7 +28,7 @@
         <asp:TextBox ID="TxtBet" runat="server"></asp:TextBox>
         <br />
         <br />
-        <asp:Button ID="BtnPull" runat="server" OnClick="BtnPull_Click" Text="Pull The Lever!" Width="105px" />
+        <asp:Button ID="BtnPull" runat="server" OnClick="BtnPull_Click" Text="Pull The Lever!" Width="133px" />
         <br />
         <br />
         <asp:Label ID="LblResult" runat="server"></asp:Label>
