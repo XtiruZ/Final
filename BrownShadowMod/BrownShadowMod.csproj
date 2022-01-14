@@ -68,10 +68,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="3DGame.aspx" />
     <Content Include="aspnet.aspx" />
-    <Content Include="Build\BrownShadowMod.framework.js" />
-    <Content Include="Build\BrownShadowMod.loader.js" />
     <Content Include="contact.aspx" />
     <Content Include="css.aspx" />
     <Content Include="data\thumbnails\0.png" />
@@ -93,33 +90,28 @@
     <Content Include="images\shamrock.jpg" />
     <Content Include="images\w3aspnet.gif" />
     <Content Include="index.aspx" />
-    <Content Include="index.html" />
     <Content Include="styles\images\bottom.jpg" />
     <Content Include="styles\images\content.jpg" />
     <Content Include="styles\images\header.jpg" />
     <Content Include="styles\images\menu.jpg" />
     <Content Include="styles\images\top.jpg" />
     <Content Include="styles\style.css" />
-    <Content Include="TemplateData\favicon.ico" />
-    <Content Include="TemplateData\fullscreen-button.png" />
-    <Content Include="TemplateData\progress-bar-empty-dark.png" />
-    <Content Include="TemplateData\progress-bar-empty-light.png" />
-    <Content Include="TemplateData\progress-bar-full-dark.png" />
-    <Content Include="TemplateData\progress-bar-full-light.png" />
-    <Content Include="TemplateData\style.css" />
-    <Content Include="TemplateData\unity-logo-dark.png" />
-    <Content Include="TemplateData\unity-logo-light.png" />
-    <Content Include="TemplateData\webgl-logo.png" />
     <Content Include="Web.config" />
+    <Content Include="Web\Build\Web.framework.js" />
+    <Content Include="Web\Build\Web.loader.js" />
+    <Content Include="Web\index.html" />
+    <Content Include="Web\TemplateData\favicon.ico" />
+    <Content Include="Web\TemplateData\fullscreen-button.png" />
+    <Content Include="Web\TemplateData\progress-bar-empty-dark.png" />
+    <Content Include="Web\TemplateData\progress-bar-empty-light.png" />
+    <Content Include="Web\TemplateData\progress-bar-full-dark.png" />
+    <Content Include="Web\TemplateData\progress-bar-full-light.png" />
+    <Content Include="Web\TemplateData\style.css" />
+    <Content Include="Web\TemplateData\unity-logo-dark.png" />
+    <Content Include="Web\TemplateData\unity-logo-light.png" />
+    <Content Include="Web\TemplateData\webgl-logo.png" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="3DGame.aspx.cs">
-      <DependentUpon>3DGame.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="3DGame.aspx.designer.cs">
-      <DependentUpon>3DGame.aspx</DependentUpon>
-    </Compile>
     <Compile Include="aspnet.aspx.cs">
       <DependentUpon>aspnet.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -155,8 +147,6 @@
   <ItemGroup>
     <Content Include="MasterPage.master" />
     <Content Include="docs\idc4ow.pdf" />
-    <Content Include="Build\BrownShadowMod.data" />
-    <Content Include="Build\BrownShadowMod.wasm" />
     <None Include="packages.config" />
     <Content Include="styles\images\Thumbs.db" />
     <None Include="Web.Debug.config">
@@ -165,6 +155,8 @@
     <None Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
+    <Content Include="Web\Build\Web.data" />
+    <Content Include="Web\Build\Web.wasm" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
